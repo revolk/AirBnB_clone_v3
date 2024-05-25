@@ -62,8 +62,8 @@ HBNB_MYSQL_USER=hbnb_dev HBNB_MYSQL_PWD=hbnb_dev_pwd HBNB_MYSQL_HOST=localhost H
 
 Authors
 Muna Elmetwally
-GitHub: munaelmetwally
-Email: munaelmetwally@example.com
+GitHub: Muna-Elmetwally
+Email: munaelmetwally2397@gmail.com
 Ramy Al Sorogy
 GitHub: revolk
 Email: finalrevolk@gmail.com
